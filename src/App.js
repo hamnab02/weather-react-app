@@ -15,7 +15,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hamna Babar
+          Hamna Babar
           </a>{" "}
           and is{" "}
           <a
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://suspicious-beaver-111c4d.netlify.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
