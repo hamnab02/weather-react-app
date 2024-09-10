@@ -24,10 +24,10 @@ export default function App() {
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{" "}
+          </a>{" "}g
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
